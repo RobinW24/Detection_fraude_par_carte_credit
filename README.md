@@ -9,8 +9,8 @@ Réalisation d’une application Streamlit qui permet d’afficher tout ce qu’
 
 # Etapes à suivre :
  1. Choisir un jeu de données sur Kaggle ou OpenData qui contient à la fois des données catégorielles, des données numériques et des données temporelles. (Avec au moins 200.000 lignes)
- a. https://www.kaggle.com/datasets
- b. Sites OpenData :
+  a. https://www.kaggle.com/datasets
+  b. Sites OpenData :
     i. https://opendata.paris.fr/
     ii. https://www.data.gouv.fr/fr/datasets/
  2. Réaliser toutes les étapes d’exploration des données & de nettoyage des données pour gérer les valeurs manquantes
